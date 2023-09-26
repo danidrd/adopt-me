@@ -7,7 +7,6 @@
     "format": "prettier --write \"src/**/*.{js,jsx}\"",
     "lint": "eslint \"src/**/*.{js,jsx}\" --quiet",
     "dev": "parcel src/index.html"
-    
   },
   "author": "Brian Holt <btholt+citrv6@gmail.com>",
   "license": "Apache-2.0",
@@ -21,7 +20,8 @@
     "eslint-plugin-react": "^7.22.0",
     "eslint-plugin-react-hooks": "^4.6.0",
     "parcel": "^2.9.3",
-    "prettier": "^2.2.1"
+    "prettier": "^2.2.1",
+    "process": "^0.11.10"
   },
   "dependencies": {
     "react": "18.2.0",
